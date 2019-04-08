@@ -1,0 +1,27 @@
+﻿body 
+{
+    padding-top: 90px;
+    margin-bottom: 60px;
+}
+
+.hidden 
+{
+    display: none !important;
+}
+
+/*----- fonts -----*/
+.lighter 
+{
+    font-weight: lighter;
+}
+
+.bolder 
+{
+    font-weight: bolder;
+}
+
+table thead th {
+    text-align:center;
+    font:bold;
+}
+
